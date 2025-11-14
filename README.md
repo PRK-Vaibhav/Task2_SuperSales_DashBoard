@@ -63,4 +63,4 @@ The following steps were applied to clean and prepare the dataset:
 (Add your dashboard screenshot here once uploaded)
 
 ```md
-![Dashboard Screenshot](dashboard.png)
+![Dashboard pdf](Superstore Sales Performance Dashboard.pdf)
